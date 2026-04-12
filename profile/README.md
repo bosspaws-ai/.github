@@ -39,22 +39,39 @@
 
   ---
 
-  ## The stack
+## The stack
+                                                                                             <div align="center">
+
+  **AI / ML Core**
 
   ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-Sonnet_4.6_%2B_Haiku_4.  5-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
   ![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.0_Flash-4285F4?style=for-th  e-badge&logo=google&logoColor=white)
+
+  **Frontend**
+
   ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=next.j  s&logoColor=white)
   ![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&lo  goColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=t  ypescript&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=t  ailwindcss&logoColor=white)
+
+  **Mobile**
+
   ![Capacitor](https://img.shields.io/badge/Capacitor-8-119EFF?style=for-the-badge&logo=cap  acitor&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=w  hite)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&l  ogoColor=white)
+
+  **Backend / Data**
+
   ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabas  e&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=pos  tgresql&logoColor=white)
+
+  **Infra & Payments**
+
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logo  Color=white)
   ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logo  Color=white)
   ![RevenueCat](https://img.shields.io/badge/RevenueCat-FF7E83?style=for-the-badge&logo=rev  enuecat&logoColor=white)
 
-  ---
+  </div>
 
   ## Platforms
 
