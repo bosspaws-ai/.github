@@ -95,6 +95,8 @@ Every data point sourced from publicly available [AVMA](https://www.avma.org), [
 
 - 🌐 **Website** — [bosspaws.ai](https://bosspaws.ai)
 - 🧠 **Technology** — [bosspaws.ai/technology](https://bosspaws.ai/technology)
+- 💼 **LinkedIn** — [BossPaws](https://www.linkedin.com/company/bosspaws/)
+- 📍 **Google** — [Business Profile](https://www.google.com/maps?cid=17188187366716332210)
 - 🐦 **X** — [@BossPaws_AI](https://x.com/BossPaws_AI)
 - 📸 **Instagram** — [@bosspaws_ai](https://www.instagram.com/bosspaws_ai/)
 - 👥 **Facebook** — [BossPawsAI](https://www.facebook.com/BossPawsAI/)
