@@ -106,6 +106,6 @@ Every data point sourced from publicly available [AVMA](https://www.avma.org), [
 ---
 
 <p align="center">
-  <sub>Built and operated by <a href="https://flexpilot.com">FlexPilot Inc.</a>, Toronto, Canada.<br />
+  <sub>Built and operated by <a href="https://flexpilot.io">FlexPilot Inc.</a>, Toronto, Canada.<br />
   © 2026 FlexPilot Inc. All rights reserved.</sub>
 </p>
